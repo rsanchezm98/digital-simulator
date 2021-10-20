@@ -12,6 +12,6 @@ There are implemented simulator for both single and multiple equations systems. 
 * ode45
 
 ## Some results of the simulator of a two link robot
-![high precision ode45](https://github.com/rsanchezm98/digital-simulator/tree/master/digital_simulator/images/errorbajo.png)
-![low precision ode45](https://github.com/rsanchezm98/digital-simulator/tree/master/digital_simulator/images/erroralto.png)
-![ode45 vs euler](https://github.com/rsanchezm98/digital-simulator/tree/master/digital_simulator/images/compare.png)
+![high precision ode45](https://github.com/rsanchezm98/digital-simulator/blob/master/digital_simulator/images/errorbajo.png)
+![low precision ode45](https://github.com/rsanchezm98/digital-simulator/blob/master/digital_simulator/images/erroralto.png)
+![ode45 vs euler](https://github.com/rsanchezm98/digital-simulator/blob/master/digital_simulator/images/compare.png)
