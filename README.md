@@ -11,6 +11,9 @@ There are implemented simulator for both single and multiple equations systems. 
 * Runge Kutta 4 order
 * ode45
 
+## Manual
+To use it you must create a new folder with the model, inputs, and outputs and the system will compute the solution for you. You must specify the folder in the simulator_multi.m and the method to solve the equations. There are two additional files to create the one to one comparison between models and to solve the equations with all the methods.
+
 ## Some results of the simulator of a two link robot
 * High precision ode45:
 
